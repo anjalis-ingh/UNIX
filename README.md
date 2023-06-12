@@ -1,5 +1,5 @@
 # UNIX Portfolio
-A portfolio of projects I did for C/C++ Programming in a UNIX Environment at UTD.
+A portfolio of projects I did for C Programming in a UNIX Environment at UTD.
 
 ### Diagonal
 Reformats text stored in an octal dump using clever file manipulation.
